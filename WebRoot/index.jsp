@@ -8,7 +8,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>♥My Love，情人节快乐♥</title>
+	<title>♥My Love♥</title>
 	<link rel="stylesheet" type="text/css" href="http://www.w3cplus.com/demo/css3/base.css" media="all" />
 	<script type="text/javascript" src="http://www.w3cplus.com/demo/css3/prefixfree.min.js"></script>
 	<style>
